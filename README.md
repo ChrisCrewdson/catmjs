@@ -5,4 +5,10 @@ It is truly an open source Crypto Currency ATM, you can see the server end at ht
 
 You can find more out about this at https://catm.io
 
+TODO:
+Set up CI:
+* https://travis-ci.org/
+* https://account.greenkeeper.io/account/ChrisCrewdson#repositories
+
+Remove minified duplicates
 
